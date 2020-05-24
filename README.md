@@ -8,9 +8,10 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 * OS: Windows / Linux / Mac OS
 * Python Version: Python 3 *(Python 3.7.4 is recommanded)*
 * Others:
-  - Arduino IDE *(Version 1.8.12 is recommanded)*
-
+  - Arduino IDE *(Version 1.8.12 is recommanded)
+  
 ## Hardware Requirement
+* Computer with required environment
 * Arduino UNO R3
 * AD8232 Heart Beat / ECG Collecting Shield
 
