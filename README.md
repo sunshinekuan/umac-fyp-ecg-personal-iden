@@ -35,6 +35,10 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 * For problem of *tkinter* installation problem in Linux:
 <code>sudo apt-get install python3-tk</code>
 
+* For problem of serial port connection in Linux:
+<code>sudo chmod 666 [port]</code>
+
+
 ## Open ipynb file
 * Windows: <code>py -m jupyter notebook</code>
 * Linux & Mac OS: <code>jupyter notebook</code>
