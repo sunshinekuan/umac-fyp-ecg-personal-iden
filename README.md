@@ -27,8 +27,12 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
   - scikit-learn
   - joblib
   - pyserial
+  - tkinter
 * Windows command: <code>py -m pip install [library]</code>
 * Linux & Mac OS command: <code>pip install [library]</code>
+
+* For problem of *tkinter* installation problem in Linux:
+<code>sudo apt-get install python3-tk</code>
 
 ## Open ipynb file
 * Windows: <code>py -m jupyter notebook</code>
