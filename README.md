@@ -32,12 +32,11 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 * Windows command: <code>py -m pip install [library]</code>
 * Linux & Mac OS command: <code>pip install [library]</code>
 
-* For problem of *tkinter* installation problem in Linux:
+### For problem of *tkinter* installation problem in Linux:
 <code>sudo apt-get install python3-tk</code>
 
-* For problem of serial port connection in Linux:
+### For problem of serial port connection in Linux:
 <code>sudo chmod 666 [port]</code>
-
 
 ### Open ipynb file
 * Windows: <code>py -m jupyter notebook</code>
