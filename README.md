@@ -12,7 +12,7 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
   
 ## Hardware Requirement
 * Computer with required environment
-* Arduino UNO R3
+* Arduino UNO R3 (with USB cable)
 * AD8232 Heart Beat / ECG Collecting Shield
 
 ## Python 3 library installation
