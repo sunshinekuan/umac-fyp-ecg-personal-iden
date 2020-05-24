@@ -15,8 +15,18 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 * AD8232 Heart Beat / ECG Collecting Shield
 
 ## Python 3 library installation
-* Using pip to install:
-jupyter, wfdb, pandas, numpy, glob2, tensorflow, matplotlib, scikit-learn, joblib, pyserial
+* Library using pip to install:
+  - jupyter
+  - wfdb
+  - pandas
+  - numpy
+  - glob2
+  - tensorflow
+  - matplotlib
+  - math3
+  - scikit-learn
+  - joblib
+  - pyserial
 * Windows command: <code>py -m pip install [library]</code>
 * Linux & Mac OS command: <code>pip install [library]</code>
 
