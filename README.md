@@ -1,6 +1,6 @@
 # The electrocardiogram (ECG) based biometric identification
 It is for the Graduation Project / Final Year Project (FYP) of Computer Science Major, Faculty of Science, University of Macau. 
-(The part we are handling deep learning based living personal identification)
+- (The part we are handling deep learning based living personal identification)
 
 ## Abstract
 
