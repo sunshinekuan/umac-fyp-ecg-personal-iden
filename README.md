@@ -17,14 +17,16 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 ## Python 3 library installation
 * Using pip to install:
 jupyter, wfdb, pandas, numpy, glob2, tensorflow, matplotlib, scikit-learn, joblib, pyserial
+* Windows command: <code>py -m pip install [library]</code>
+* Linux & Mac OS command: <code>pip install [library]</code>
 
 ## Open ipynb file
-* Windows: py -m jupyter notebook
-* Linux & Mac OS: jupyter notebook
+* Windows: <code>py -m jupyter notebook</code>
+* Linux & Mac OS: <code>jupyter notebook</code>
 
 ## Stop running Jupyter notebook
-* Windows: py -m jupyter notebook stop
-* Linux & Mac OS: jupyter notebook stop
+* Windows: <code>py -m jupyter notebook stop</code>
+* Linux & Mac OS: <code>jupyter notebook stop</code>
 
 ## Contact
 * Oscar, Kuan Ka Meng
