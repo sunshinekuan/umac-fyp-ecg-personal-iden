@@ -46,6 +46,13 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 * Windows: <code>py -m jupyter notebook stop</code>
 * Linux & Mac OS: <code>jupyter notebook stop</code>
 
+## Running Program
+- Arduino (Open with *Arduino IDE*):
+  - <code>/src/arduino/ECG_arduino/ECG_arduino.ino</code>
+- Python (Open with *Jupyter Notebook* or *Google Colaboratory*)
+  - Training Model: <code>/src/python/ECG_Prediction_SVM.ipynb</code>
+  - GUI Identification Application: <code>/src/python/ECG_GUI_App.ipynb</code>
+
 ## Contact
 * Oscar, Kuan Ka Meng
 * Elaine, Guo Yan Jia
