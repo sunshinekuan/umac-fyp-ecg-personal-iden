@@ -1,0 +1,81 @@
+Tue Mar 24 00:58:00 CST 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.05, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.6070249999999999
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.48043483091130507
+AUC_mean=0.0
+Wed Mar 25 18:06:01 CST 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.05, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.40451999999999994
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.34524909386481545
+AUC_mean=0.0
+Thu 30 Apr 2020 12:44:14 AM CSTSVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.05, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.6517750000000001
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.3485528960587442
+AUC_mean=0.0
+Wed May 13 10:33:16 UTC 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=scale, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.7457499999999999
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.5412811762379428
+AUC_mean=0.0
+Wed May 13 10:44:07 UTC 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.6, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.7399500000000001
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.5098583724893614
+AUC_mean=0.0
+Wed May 13 12:16:31 UTC 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.6, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.7744812909489814
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.5576840525876251
+AUC_mean=0.0
+Wed May 13 14:46:58 UTC 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.5, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.7741294775623497
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.5564886596535071
+AUC_mean=0.0
+Thu May 14 16:40:33 UTC 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.2, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.7746923900726765
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.5582166543288054
+AUC_mean=0.0
+Thu May 21 14:47:46 UTC 2020SVC(C=1, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape=ovr, degree=3, gamma=0.2, kernel=rbf,
+    max_iter=-1, probability=True, random_state=None, shrinking=True, tol=0.001,
+    verbose=False)
+ACC_mean=0.7748612178743796
+SN_mean=0.0
+SP_mean=0.0
+MCC_mean=0.5585104173433886
+AUC_mean=0.0
