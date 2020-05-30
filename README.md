@@ -1,10 +1,10 @@
 # The electrocardiogram (ECG) based biometric identification
-It is for the Graduation Project / Final Year Project (FYP) of Computer Science Major, Faculty of Science, University of Macau. 
-- (The part we are handling deep learning based living personal identification)
+基於心電圖 (ECG) 的個人身份識別
+- This project is the Graduation Project / Final Year Project (FYP) of Department of Computer and Information Science, Faculty of Science and Technology, University of Macau. 
 
 ## Abstract
 
-## Dataset of pre-training
+## Dataset used for model testing training
 * ECG-ID Database v1.0.0: https://physionet.org/content/ecgiddb/1.0.0/
 
 ## Environment Requirement
