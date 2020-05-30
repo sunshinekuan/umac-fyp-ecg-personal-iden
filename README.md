@@ -4,6 +4,9 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 
 ## Abstract
 
+## Dataset of pre-training
+* ECG-ID Database v1.0.0: https://physionet.org/content/ecgiddb/1.0.0/
+
 ## Environment Requirement
 * OS: Windows / Linux / Mac OS
 * Python Version: Python 3 *(Python 3.7.4 is recommanded)*
