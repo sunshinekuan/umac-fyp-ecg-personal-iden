@@ -4,7 +4,7 @@
 
 ## Abstract
 
-## Dataset of pre-training
+## Dataset used for model testing training
 * ECG-ID Database v1.0.0: https://physionet.org/content/ecgiddb/1.0.0/
 
 ## Environment Requirement
