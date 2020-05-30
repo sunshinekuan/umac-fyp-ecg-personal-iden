@@ -4,6 +4,9 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 
 ## Abstract
 
+## Dataset of pre-training
+* ECG-ID Database v1.0.0: https://physionet.org/content/ecgiddb/1.0.0/
+
 ## Environment Requirement
 * OS: Windows / Linux / Mac OS
 * Python Version: Python 3 *(Python 3.7.4 is recommanded)*
@@ -13,7 +16,7 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 ## Hardware Requirement
 * Computer with required environment
 * Arduino UNO R3 (with USB cable)
-* AD8232 Heart Beat / ECG Collecting Shield
+* AD8232 Heart Beat / ECG Collecting Shield (with sensors/electrodes)
 
 ## Python 3 library installation
 * Library using pip to install:
@@ -46,12 +49,25 @@ It is for the Graduation Project / Final Year Project (FYP) of Computer Science 
 * Windows: <code>py -m jupyter notebook stop</code>
 * Linux & Mac OS: <code>jupyter notebook stop</code>
 
-## Running Program
+## Open Program
 - Arduino (Open with *Arduino IDE*):
   - <code>/src/arduino/ECG_arduino/ECG_arduino.ino</code>
 - Python (Open with *Jupyter Notebook* or *Google Colaboratory*)
   - Training Model: <code>/src/python/ECG_Prediction_SVM.ipynb</code>
   - GUI Identification Application: <code>/src/python/ECG_GUI_App.ipynb</code>
+
+## Start and Running Program
+- Collecting ECG Signal (*Arduino*): 
+  - Connect Arduino UNO R3 with AD8232 Heart Beat / ECG Collecting Shield to Computer with Arduino IDE
+  - Check the USB port is available
+  - Paste the sensors/electrodes on user's body
+  - Check the Serial Potter and Serial Monitor in Arduino IDE to see the signal value and graph respectively
+  - Collect the signal in Serial Potter and do the further process
+
+- Training Model and GUI application (*Python*):
+  - Open the program with *Jupyter Notebook* or *Google Colaboratory*
+  - Check the paths in program
+  - If everything is fine, click "Kernel -> Restart and Run All"
 
 ## Contact
 * Oscar, Kuan Ka Meng
