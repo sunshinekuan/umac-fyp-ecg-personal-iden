@@ -8,7 +8,7 @@
 * ECG-ID Database v1.0.0: https://physionet.org/content/ecgiddb/1.0.0/
 
 ## Environment Requirement
-* OS: Windows / Linux / Mac OS
+* OS: Windows / Linux / Mac OS *(This project developed in macOS Catalina 10.15.3 & Ubuntu 18.04 LTS)*
 * Python Version: Python 3 *(Python 3.7.4 is recommanded)*
 * Others:
   - Arduino IDE *(Version 1.8.12 is recommanded)*
@@ -68,6 +68,7 @@
   - Open the program with *Jupyter Notebook* or *Google Colaboratory*
   - Check the paths in program
   - If everything is fine, click "Kernel -> Restart and Run All"
+  - **For GUI identification application**, change and check the port of Arduino UNO everytime.
 
 ## Contact
 * Oscar, Kuan Ka Meng
