@@ -1,6 +1,6 @@
 # The electrocardiogram (ECG) based biometric identification
-(基於心電圖 (ECG) 的個人身份識別)
-- It is for the Graduation Project / Final Year Project (FYP) of Computer Science Major, Faculty of Science, University of Macau. 
+基於心電圖 (ECG) 的個人身份識別
+- This project is the Graduation Project / Final Year Project (FYP) of Department of Computer and Information Science, Faculty of Science and Technology, University of Macau. 
 
 ## Abstract
 
