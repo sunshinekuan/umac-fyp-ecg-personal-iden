@@ -71,5 +71,5 @@
   - **For GUI identification application**, change and check the port of Arduino UNO everytime.
 
 ## Contact
-* Oscar, Kuan Ka Meng
-* Elaine, Guo Yan Jia
+* Oscar, Kuan Ka Meng (macauoscar@gmail.com)
+* Elaine, Guo Yan Jia (cusuvo@outlook.com)
