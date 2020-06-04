@@ -3,6 +3,8 @@
 - This project is the Graduation Project / Final Year Project (FYP) of Department of Computer and Information Science, Faculty of Science and Technology, University of Macau. 
 
 ## Abstract
+- Biometric identification mainly uses the inherent physiological and behavioural characteristics of the human body to identify individuals. It includes fingerprint, face, iris, handwriting, sound, gait etc. In this case, we build a low-cost biometrics identification method to give a new choice to the identification technical area. We introduce the ECG biometric identification because it is new, low-cost and keep the tester is alive when it is testing.
+- 個人生物及身份特徵識別主要是利用人體固有的生理和行為特徵來識別個體。它包括指紋，面部，虹膜，筆跡，聲音，步態等。在這種情況下，我們正在構建一種低成本的生物特徵識別方法，以便為識別技術領域提供新的選擇。我們會選擇使用用心電圖 (ECG) 生物識別技術，因為它是一種新穎的低成本技術，而且可在測試時保證測試者在存活的狀態。
 
 ## Dataset used for model testing training
 * ECG-ID Database v1.0.0: https://physionet.org/content/ecgiddb/1.0.0/
