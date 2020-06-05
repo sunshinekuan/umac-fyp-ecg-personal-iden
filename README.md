@@ -63,7 +63,7 @@
   - Connect Arduino UNO R3 with AD8232 Heart Beat / ECG Collecting Shield to Computer with Arduino IDE
   - Check the USB port is available
   - Paste the sensors/electrodes on user's body
-  - Check the Serial Potter and Serial Monitor in Arduino IDE to see the signal value and graph respectively
+  - Check the Serial Monitor and Serial Plotter in Arduino IDE to see the signal value and graph respectively
   - Collect the signal in Serial Potter and do the further process
 
 - Training Model and GUI application (*Python*):
