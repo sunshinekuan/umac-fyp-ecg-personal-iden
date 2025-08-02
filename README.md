@@ -74,4 +74,3 @@
 
 ## Contact
 * Oscar, Kuan Ka Meng (macauoscar@gmail.com)
-* Elaine, Guo Yan Jia (cusuvo@outlook.com)
